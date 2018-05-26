@@ -1,0 +1,24 @@
+{
+  "name": "tokenerc721",
+  "version": "1.0.0",
+  "description": "Infungibles tokens ERC721",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "ganache",
+    "truffle",
+    "solidity",
+    "erc721"
+  ],
+  "author": "HL",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^1.9.0"
+  }
+}
